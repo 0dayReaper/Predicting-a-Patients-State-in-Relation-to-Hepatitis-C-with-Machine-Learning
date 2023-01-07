@@ -1,0 +1,9 @@
+scipy
+sklearn
+pandas
+matplotlib
+numpy
+pandas
+seaborn
+imblearn==0.0
+xgboost==1.7.3
